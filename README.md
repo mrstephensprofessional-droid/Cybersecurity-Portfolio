@@ -14,7 +14,7 @@ Cybersecurity & IT Portfolio
     * Joined Windows 10 Pro clients to the domain and managed OUs/User accounts.
     * Deployed Splunk Enterprise for centralized security monitoring and log aggregation.
  
-### 🔵 **Host-Based Port Scan Identification & Analysis via Splunk**
+### 🔵 [Host-Based Port Scan Identification & Analysis via Splunk](./Network-Scanning-Detection_Lab)
 * **Objective:** Simulated an internal reconnaissance phase against a live Domain Controller to identify network visibility gaps, engineered custom host auditing parameters, and built SIEM tracking dashboards.
 * **Key Configurations:**
   * Configured isolated network communication layers via distinct VirtualBox host-only interfaces (`192.168.10.0/24`).
