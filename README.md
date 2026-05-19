@@ -23,8 +23,7 @@ Cybersecurity & IT Portfolio
   * Engineered data aggregation queries utilizing Splunk Search Processing Language (SPL).
   * Generated graphical SIEM matrix visualizations to summarize adversary scanning profiles.
 * **Tools:** VirtualBox, Kali Linux, Windows Server 2025, Nmap, Splunk Enterprise.
-* **Documentation Link:** [View Detailed Lab Guide](./Network-Scanning-Detection_Lab/README.md)
-* **Tools:** VirtualBox, Windows Server, PowerShell, SPLUNK Enterprise.
+* **Documentation Link:** [View Detailed Lab Guide](./Network-Scanning-Detection_Lab)
 
 
 ---
